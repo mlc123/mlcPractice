@@ -1,6 +1,2 @@
 sdadsadada
-<<<<<<< HEAD
 cat is telling the truth
-=======
-cat tells a lie
->>>>>>> a843f9be890ce3fa3e0443549cffcadfbd7ecef6
