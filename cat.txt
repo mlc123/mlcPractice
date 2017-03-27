@@ -5,6 +5,6 @@ This is the code I really want to keep
 hello world!
 Add #1 line.
 Add #2 line.
-Add #three line:.
+Add #3 line.
 Add #4 line.
 This is the last line.
